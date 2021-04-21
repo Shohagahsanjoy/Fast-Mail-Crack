@@ -1,5 +1,4 @@
-
-<h1 align="center"> |SHOHAG-AHSAN-JOY|</h1>
+<h1 align="center"> |SHOHAG AHSAN JOY|</h1>
 
 <h2 align="center">  CRACKING TOOL </h2>
 
@@ -46,11 +45,12 @@ git clone https://github.com/Shohagahsanjoy/Fast-Mail-Carck
 
 cd Fast-Mail-Carck
 
-
 python2 brute.py
+
 ```
 
 ```
- TOOL USER : (No Needed)</br>
- TOOL PASS : (No Needed</br>
- [![Facebook](https://img.shields.io/badge/Facebook-SHOHAG-blue?style=flat-square&logo=facebook)](https://www.facebook.com/Bad.boy.official.420)</br>
+ 
+### TOOL USER : (No Needed)</br>
+ 
+### TOOL PASS : (No Needed</br>
