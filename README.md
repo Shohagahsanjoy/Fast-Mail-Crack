@@ -41,9 +41,9 @@ pip2 install bs4
 
 pkg install git
 
-git clone https://github.com/Shohagahsanjoy/Fast-Mail-Carck
+git clone https://github.com/Shohagahsanjoy/Fast-Mail-Crack
 
-cd Fast-Mail-Carck
+cd Fast-Mail-Crack
 
 python2 brute.py
 
